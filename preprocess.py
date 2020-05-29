@@ -61,9 +61,6 @@ def match_template(image, template):
     return cv2.matchTemplate(image, template, cv2.TM_CCOEFF_NORMED)
 
 def preprocess(img):
-    cv2.imshow("", img)
-    cv2.waitKey(0)
-
     scale_percent = 50 # percent of original size
     width = int(img.shape[1] * scale_percent / 100)
     height = int(img.shape[0] * scale_percent / 100)
@@ -76,26 +73,16 @@ def preprocess(img):
     new_width = width-w_sixth
     img = img[new_height:(height-15), w_sixth:new_width]
 
-    cv2.imshow("", img)
-    cv2.waitKey(0)
     img = get_grayscale(img)
 
-    cv2.imshow("", img)
-    cv2.waitKey(0)
     kernel = np.ones((1, 1), np.uint8)
     img = cv2.dilate(img, kernel, iterations=1)
     img = cv2.erode(img, kernel, iterations=1)
 
-    cv2.imshow("", img)
-    cv2.waitKey(0)
     (thresh, blackAndWhiteImage) = cv2.threshold(img, 168, 255, cv2.THRESH_TOZERO)
 
-    cv2.imshow("", blackAndWhiteImage)
-    cv2.waitKey(0)
     blackAndWhiteImage = ~blackAndWhiteImage
     img  = blackAndWhiteImage
-    cv2.imshow("", blackAndWhiteImage)
-    cv2.waitKey(0)
     return img
 def transcribe(img):
     custom_config = r'-l chi_sim --psm 6'

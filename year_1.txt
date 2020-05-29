@@ -1,0 +1,822 @@
+Student<br>xué.shēng	學生
+Today<br>jīntiān	今天
+Very<br>hěn	很
+Good, fine, well<br>hǎo	好
+Not <br>bù	不
+Cold<br>lěng	冷
+Both, all<br>dōu	都
+Happy <br>gāoxìng	高興
+To be<br>shì	是
+America<br>Měiguó	美國
+He; him<br>tā	他
+To have<br>yǒu	有
+Many; a lot<br>duō	多
+One <br>yī	一
+General Measure Word<br>gè	個
+China <br>Zhōngguó	中國
+To be surnamed<br>xìng	姓
+To be named; to be called<br>jiào	叫
+Person<br>rén	人
+Chinese Language<br>Zhōngwén	中文
+Friend<br>péng.yǒu	朋友
+Chinese Surname<br>Wáng	王
+Place<br>dì.fāng	地方
+Possessive Marker<br>de	的
+You<br>nǐ	你
+You, polite<br>nín	您
+You, plural<br>nǐ.men	你們
+I; me<br>wǒ	我
+Also; too; as well<br>yě	也
+Truly<br>zhēn	真
+Too<br>tài	太
+To want<br>xiǎng	想
+To know a fact<br>zhī.dào	知道
+To know a person<br>rèn.shí	認識
+And; along with<br>gēn	跟
+But<br>kěshì	可是
+Particle used for inquiry<br>ne	呢
+Particle used for uncertainty, suggestion, presumption<br>ba	吧
+Particle used as a question marker<br>ma	嗎
+What; what kind of <br>shénme	甚麽
+Dialogue <br>duìhuà	對話
+Comfortable <br>Shū.fú	舒服
+Correct <br>duì	對
+Particle used to show agreement ya	呀
+Hello <br>Nǐhǎo	你好
+Is it correct? <br>duìbuduì?	對不對
+Goodbye <br>Zàijiàn	再見
+To go to class<br>shàngkè	上課
+The first <br>dìyī	第一
+Day <br>tiān	天
+Teacher<br>lǎoshī	老師
+Class<br>bān	辦
+Name<br>míng.zì	名字
+Everybody<br>dàjiā	大家
+Elder Brother<br>gē.gē	哥哥
+Younger Brother<br>dì.dì	弟弟
+Overseas Chinese<br>huáyì	華裔
+Excited<br>xīngfèn	興奮
+Gentle and Nice<br>héqi	和氣
+Good looking<br>hǎokàn	好看
+Same<br>yíyàng	一樣
+Strange<br>qíguài	奇怪
+Just; then; only<br>jiù	就
+To feel; think<br>juéde	覺得
+Would like to have<br>xiǎngyào	想要
+To speak; to talk<br>Shuōhuà	説話
+Can; know how to do<br>huì	會
+Because<br>yīn.wèi	因爲
+Therefore<br>suǒyǐ	所以
+And<br>hé	和
+Ordinal numbers<br>dì	第
+Which<br>nǎ; něi	哪
+That<br>nà; nèi	那
+Particle showing surprise<br>ya	呀
+Particle indicating change of state<br>le	了
+Thank you<br>xiè.xiè	謝謝
+Chinese Name Wényīng	文英
+Surname Lǐ	李
+Chinese Name Jiāqí	家奇
+Chinese Name Jiāxīng	家興
+family jiārén	家人
+Sound of laughter haha	哈哈
+They/them tāmen	他們
+We/us wǒmen	我們
+She/her tā	她
+France Fǎguó	法國
+Italy Yìdàlì	意大利
+Germany Déguó	德國
+Korea Hánguó	韓國
+Japan Rìběn	日本
+Canada Jiānádà	加拿大
+Turkey Tǔ'ěrqí	土耳其
+Australia àodàlìyà	澳大利亞
+Want to xiǎng	想
+To want yào	要
+To learn; study xué	學
+It is you! Shì nǐmenya!	是你們呀！
+How are you? Nǐhǎoma?	你好嗎？
+Doctor<br>yīshēng	醫生
+Graduate student<br>yánjiūshēng	研究生
+College; university<br>dàxué	大學
+Newspaper<br>bào	報
+TV<br>diànshì	電視
+Food; meal<br>fàn	飯
+The youngest child<br>lǎoxiǎo	老小
+Younger sister<br>mèi.mei	妹妹
+The first child<br>lǎodà	老大
+Business<br>shēng.yì	生意
+Family<br>jiātíng	家庭
+Question<br>wèntí	問題
+Dog<br>gǒu	狗
+Close relative<br>qīnrén	親人
+Baby<br>bǎo.bǎo	寶寶
+Sweetheart<br>bǎobèi	寶貝
+Grandson<br>sūn.zi	孫子
+Things (to do)<br>shì.qíng	事情
+Money<br>qián	錢
+Laborious<br>xīnkǔ	辛苦
+Smart<br>cōng.míng	聰明
+Being rich<br>yǒuqián	有錢
+Young<br>xiǎo	小
+Adorable; lovely<br>kěài	可愛
+Happy<br>xìng.fú	幸福
+To be at/in/on<br>zài	在
+Evening<br>wǎn.shàng	晚上
+Never<br>cónglái(bu)	從來(不)
+Especially<br>tèbié	特別
+Definitely; must<br>yídìng	一定
+Often<br>cháng(cháng)	常(常)
+Together<br>yìqǐ	一起
+To eat<br>chī	吃
+To take care of; to look after<br>zhàogù	照顧
+Please<br>qǐng	請
+to read; to look<br>kàn	看
+Will <br>yào	要
+To introduce<br>jièshào	介紹
+May<br>kěyǐ	可以
+To love<br>ài	愛
+Although<br>suīrán	雖然
+MW for people, polite<br>wèi	位
+A sound made for sarcastic laughter<br>hēihēi	嘿嘿
+A sound made to show surprise<br>hē	呵
+Why<br>wèishénme	爲甚麽
+Who wants to do it first?<br>Shéixiānlái	誰先來
+Thank you all<br>xiè.xiè dàjiā	謝謝大家
+I got it<br>wǒmíng.báile	我明白了
+You two (honorable guests)<br>èr wèi	二位
+Father fù.qīn	父親
+Mother mǔ.qīn	母親
+Elder sister jiě.jiě	姐姐
+Work; job gōngzuò	工作
+Dad bà.ba	爸爸
+Mom mā.ma	媽媽
+Music yīnyuè	音樂
+Grandfather (paternal) yé.yé	爺爺
+Grandmother (paternal) nǎi.nai	奶奶
+Son érzi	兒子
+Daughter nǚ'ér	女兒
+Each měi	每
+This zhè/zhèi	這
+Busy máng	忙
+Tired lèi	累
+Delicious hǎochī	好吃
+Not enough búguò	不過
+Clear míng.bái	明白
+Self zìjǐ	自己
+Furthermore; in addition; again yòu	又
+A little bit yíxià	一下
+First xiān	先
+Altogether (in total, followed by #) yígòng	一共
+Only zhǐ	只
+To hire; to treat or invite somebody qǐngrén	情人
+To make; do zuò	做
+Can (physically able, allowed) néng	能
+To come lái	來
+To ask wèn	問
+to teach jiāo	教
+Mouth; MW for family members kǒu	口
+Who; whom shéi/shuí	誰
+How many (for #s less than 10) jǐ	幾
+wǔ/five	五
+kǒu/MW for population	口
+fùqin/father	父親
+mǔqin/mother	母親
+jiějie/older sister	姐姐
+yīshēng/doctor	醫生
+yánjiūshēng/graduate student	研究生
+dàxuéshēng/college student	大學生
+gōngzuò/work, a job	工作
+máng/busy	忙
+xīnkǔ/laborious	辛苦
+měi/each	每
+wǎnshang/evening	晚上
+lèi/tired	累
+shuōhuà/to speak, to talk	說話
+kán/to read	看
+bào/newspaper	報
+diànshì/TV	電視
+suīrán/although	雖然
+cónglái/never	從來
+zuò/to make, to do	做
+hǎochī/delicious	好吃
+fàn/food	飯
+cài/dish	菜
+lǎoxiǎo/the youngest child	老小
+yòu/furthermore	又
+cōngming/smart	聰明
+tèbié/especially	特別
+liù/six	六
+bàba/dad	爸爸
+māma/mom	媽媽
+liǎng/two (before MW)	兩
+mèimei/younger sister	妹妹
+lǎodà/the oldest child	老大
+shēngyi/business	生意
+lǐ/in, inside	裡
+xiǎo/young, small	小
+zài/to be at (preposition)	在
+zhàogù/to take care of	照顧
+yǒu qián/to be rich (to have money)	有錢
+qián/money	錢
+gòu/enough (note character right and left sides can be switched)	夠
+néng/can (for innate, physical abilities or being allowed to)	能
+qǐng rén/to hire someone	請人
+yào/will, or really want to (before another verb); want (before MW + noun)	要
+jièshào/to introduce	介紹
+yíxià/a little bit	一下
+zíjǐ/self	自己
+jiātíng/family	家庭
+shéi, shuí/who	誰
+xiān/first	先
+shuō/to speak, to say	說
+kěyǐ/may (for asked permission)	可以
+wèn/to ask	問
+wèntí/question	問題
+yígòng/altogether, in total	一共
+gǒu/dog	狗
+gēn/with, from (usage in notes)	跟
+qīnrén/close relative	親人
+jiāo/to teach	教
+yīnyuè/music	音樂
+cháng(cháng)/often (note: not often = bù cháng)	常
+kě'ài/cute, adorable	可愛
+xièxie/thank you	謝謝
+jǐ/how many (implying number under 10)	幾
+wèi shénme/why	為什麼
+yéye/paternal grandfather	爺爺
+nǎinai/paternal grandmother	奶奶
+zhǐ/only	只
+érzi/son	兒子
+míngbai/to understand	明白
+yìqǐ/together	一起
+yídìng/definitely	一定
+xìngfú/happy, content	幸福
+ài/to love	愛
+hēhē/sound of laughter	呵呵
+bǎobao/baby	寶寶
+băobèi/sweetheart (term of endearment)	寶貝
+nǚ'ér/daughter	女兒
+zhè, zhèi/this	這
+sūnzi/grandson (son's son)	孫子
+shìqing/things	事情
+zhèyàng/this kind of, thus	這樣
+fēnzhōng/minute	分鐘
+zhōngtóu/hour (colloquial)	鐘頭
+xiǎoshí/hour (formal)	小時
+xīngqī/week	星期
+yuè/month	月
+nián/year	年
+Xībānyáwén/Spanish language	西班牙文
+Éwén/Russian language	俄文
+tán/to talk	談
+děng/to wait	等
+zhù/to live (at a place)	住
+xiūxi/to rest	休息
+yóu yǒng/to swim	游泳
+zǒu lù/to walk	走路
+hē jiǔ/to drink alcohol	喝酒
+shuì jiào/to sleep	睡覺
+tiào wǔ/to dance	跳舞
+chàng gē/to sing	唱歌
+kàn diànyǐng/to see a movie	看電影
+tīng yīnyuè/to listen to music	聽音樂
+tī zúqiú/to play football (literally to kick football)	踢足球
+dǎ lánqiú/to play basketball	打籃球
+dǎ wǎngqiú/to play tennis	打網球
+èr/two	二
+sān/three	三
+sì/four	四
+qī/seven	七
+bā/eight	八
+jiǔ/nine	九
+shí/ten	十
+yíbài/one hundred	一百
+yìqiān/one thousand	一千
+yíwàn/one ten thousand	一萬
+zhī / measure word	隻
+shū / book	書
+Lunch<br>wǔfàn	午飯
+Coffee<br>kāfēi	咖啡
+Water<br>shǔi	水
+Way; method<br>fǎzi	法子
+Thing (object)<br>dōng.xī	東西
+Idea<br>zhǔyi	主意
+Minutes<br>fēnzhōng	分鐘
+Not bad; pretty good<br>búcuò	不錯
+Hungry<br>è	餓
+Okay; fine<br>xíng	行
+Downstairs<br>lóuxià	樓下
+A little bit of<br>(yī)diǎnr	(一)點兒
+On time<br>zhǔnshí	準時
+Not, no (negate 有)<br>méi	沒
+Right away<br>mǎshàng	馬上
+Quickly<br>kuài	快
+Extremely<br>jíle	極了
+Even<br>gèng	更
+To go to; to arrive at/in<br>dào	到
+To enter<br>jìn	進
+To drink<br>hē	喝
+To use<br>yòng	用
+to give; for<br>gěi	給
+To have (other) things<br>yǒushì	有事
+To sit<br>zuò	坐
+To buy<br>mǎi	買
+To plan<br>dǎsuàn	打算
+To go<br>qù	去
+Later<br>yǐhòu	以後
+Now<br>xiànzài	現在
+times<br>cì	次
+A pair of <br>shuāng	雙
+Interjection showing surprise<br>a	啊
+A set of tào	套
+Black tea (red tea) hóng chá	紅茶
+Chicken egg jīdàn	雞蛋
+china; porcelain ware chájù	茶具
+Chinatown Zhōngguóchéng	中國城
+Chopsticks kuàizi	筷子
+Delicious xiāng	香
+Dormitory sùshè	宿舍
+Fork chāzi	叉子
+Green tea lǜchá	綠茶
+Here comes the tea! cháláile	茶來了
+I am not that silly xiǎokànwǒle	小看我了
+I am sorry duìbuqǐ	對不起
+I feel embarrassed bùhǎoyìsi	不好意思
+In that case nà	那
+Interjection showing agreement ng	嗯
+It doesn't matter búyàojǐn	不要緊
+Matter; thing shì	事
+Next time xiàcì	下次
+No problem méiwèntí	沒問題
+Noon zhōngwǔ	中午
+Olive oil gǎnlǎnyóu	橄欖油
+Or (only used in a?) háishì	還是
+Particle indicating change of state le	了
+Please enjoy qǐngmànyòng	請慢用
+Please wait a minute qǐngshāoděng	請稍等
+Rice mǐfàn	米飯
+Scallion cōng	蔥
+So zhème	這麽
+Specialty náshǒucài	拿手菜
+Supermarket chāoshì	超市
+Thanks a lot! duōxièle	多謝了
+Time to eat! kāifàn	開飯
+to be really (something) yǒuliǎngxiàzi	有兩下子
+To be used to doing xíguàn	習慣
+To decide juédìng	決定
+To lack chà	差
+To steep tea pàochá	泡茶
+To stir fry chǎo	炒
+Tomato xīhóngshì	西紅柿
+Vegetable oil càiyóu	菜油
+What do you think of... zěnmeyàng	怎麽樣
+Where nǎr	哪兒
+Which nǎ; něi	哪
+You're welcome búkè.qì	不客氣
+Originally Běnlái	本來
+thing Shìqíng	事情
+zhōngcān - Chinese food (formal)	中餐
+zhōngcānguǎnr - Chinese restaurant	中餐舘兒
+yuè - more	越
+yuè...yuè... - the more..., the more...	越。。。越。。。
+tīngshuō - to hear sth. from others	聼說
+xuéxiào - school (generic word)	學校
+fùjìn - vicinity, in the vicinity of	附近
+fànguǎnr - restaurant (informal)	飯館兒
+Lǎo Sìchuān - old Sichuan (name of a restaurant)	老四川
+yǒumíng - famous	有名
+juédìng - to decide	決定
+yī...jiù... - as soon as..., then...	一。。。就。。。
+fúwùyuán - waiter, waitress	服務員
+yòu...yòu... - both...and...	又。。。又。。。
+má - spicy (numb)	麻
+là - spicy	辣
+Sìchuāncài - Sichuan food	四川菜
+dē - resultative marker	得
+kuài - quick	快
+màn - slow	慢
+zuìhòu - finally	最後
+diǎn - to order	點
+mápó dòufu	麻婆豆腐
+suāncàiyú - fish with pickled vegetables	酸菜魚
+suānlàtāng - hot and sour soup	酸辣湯
+wán - (finish) up	完
+wèidào - taste	味道
+diǎn tóu - to nod (head)	點頭
+yuánlái - originally	原來
+jiā - measure word for restaurants	傢
+nǚpéngyou - girlfriend	女朋友
+zàishuō - besides	再說
+yì yán wéi dìng - okay/it's a deal/set in stone	一言為定
+wèi - formal measure word for people	位
+qǐng gēn wǒ lái - please follow me	請跟我來
+qǐng zhèbiān zuò - please be seated here	請這邊坐
+càidān - menu	菜單
+cháng - to taste	嚐
+cháng yi cháng - to try (by tasting)	嚐一嚐
+Tèbié - especially	特別
+Xíguàn - to be used to	習慣
+語伴	yǔbàn - language exchange partner
+機會	jīhuì - opportunity
+少	shǎo - few, less (opposite of 多)
+幫	bāng - to help
+找	zhǎo - to look for, to find
+從	cóng - from
+正好	zhènghǎo - to be about to (imminence adverb)
+練習	liànxí - to practice
+於是	yúshì - therefore, accordingly
+報名	bào míng - to register
+星期	xīngqī - week
+收到	shōudào - to recieve
+郵件	yóujiàn - email (noun)
+約好	yuēhǎo - to make an appointment
+點	diǎn - o'clock (MW)
+圖書館	túshūguǎn - library
+門	mén - gate, door
+前	qián - front, in front of
+見面	jiàn miàn - to meet
+女的	nǚ de - female
+性格	xìnggé - personality
+合得來	hédelái - to get along well (with)
+有點兒	yǒudiǎnr - a little bit
+緊張	jǐnzhāng - nervous
+看見	kànjiàn - to see, catch sight of
+女	nǚ - female (adj)
+半	bàn - half
+小時	xiǎoshí - hour
+英語	Yīngyǔ - English language
+然後	ránhòu - afterwards
+漢語	Hànyǔ - Chinese language
+種	zhǒng - kind, type (MW, used for languages)
+語言	yǔyán - language
+交換	jiāohuàn - to exchange
+幫助	bāngzhù - to help (formal)
+禮拜	lǐbài - week
+要是	"yàoshi - if (plus 就 for ""then"")"
+願意	yuànyì - to be willing to
+夥伴	huǒbàn - partner, companion
+互相	hùxiāng - mutually, each other (adv)
+提高	tígāo - to improve, to increase, to raise
+水平	shuǐpíng - level, standard
+興趣	xìngqù - interest (in something)
+算	suàn - to count, to calculate
+留下	liúxià - to leave
+地址	dìzhǐ - address (noun)
+信	xìn - letter (mail)
+為	wèi - for
+唉	ài - sigh
+總是	zǒngshì - always
+麻煩	máfan - to trouble, to annoy
+說的也是	shuō de yě shì - I agree
+約會	yuēhuì - dating, to date (noun and verb)
+長	zhǎng - to grow (appearance)
+帥	shuài - cool, handsome
+人見人愛	rén jiàn rén ài - to be loved by everybody
+可	kě - extra emphasis
+得	děi - have to
+趕快	gǎnkuài - hurry up, to do _____ in a hurry
+晚	wǎn - late
+禮貌	lǐmào - polite (noun: use after 有)
+總算	zǒngsuàn - finally
+可能	kěnéng - maybe, perhaps (auxiliary verb)
+哪裡	nǎli nǎli - no, not so
+差遠了	chà yuǎn le - not good at all
+四聲	sìshēng - four tones
+其實	qíshí - actually
+要求	yāoqiú - requirement
+高	gāo - tall, high
+該	gāi - should, ought to
+糾正	jiūzhèng - to correct
+聲調	shēngdiào - tones
+時間	"shíjiān - time (abstract - ""do you have time?"")"
+過	guò - to pass, to celebrate
+星期五	xīngqīwǔ - Friday
+以前	Yǐqián before
+Gǎn'ēn Jié - Thanksgiving Day	感恩節
+fēijī - airplane	飛機
+lí - to be...away from	離
+yuǎn - far	遠
+cháng - long	長
+méi yìsi - boring	沒意思
+jiànyì - to suggest, also suggestion	建議
+ná - to bring	拿
+shū - book	書
+huòzhě - or	或者
+tīng - to listen to	聼
+kùn - sleepy (note has an eye radical in book)	困
+shuì jiào - to sleep	睡覺
+huí jiā - to return home	回家
+huǒjī - turkey	火鷄
+guò - to celebrate	過
+zhǔnbèi - to plan	準備
+wánwánr - to have some fun	玩玩兒
+yóuxíng - parade	游行
+tóngwū - roommate	同屋
+liáo tiān(r) - to chat	聊天兒
+bówùguǎn - museum	博物館
+cānguān - to visit (formal)	參觀
+diànyǐngyuàn - movie theater	電影院
+shuōbudìng - perhaps	説不定
+jīdòng - excited	激動
+dāngrán - of course	當然
+chū - to go out	出
+(feī)jīchǎng - airport	(飛）機場
+dìtiě - subway	地鐵
+gōnggòng qìchē - bus	公共汽車
+chūzūchē - taxi	出租車
+sāichē - traffic jam	賽車
+fèi - fee, expense	費
+yǐwéi - to think, assume (incorrectly)	以爲
+zìdiǎn - dictionary	字典
+Yīng Hàn - English-Chinese	英漢
+guójiā - country	國家
+yīnggāi - should	應該
+xìngkuī - fortunately	幸虧
+yàobùrán - otherwise	要不然
+kāi ge wánxiào - just kidding	開個玩笑
+hēihēi - haha	嘿嘿
+tǐng - quite	挺
+jìmò - lonely	寂寞
+zhù nǐ hǎo yùn - good luck	祝你好運
+hài - sigh	嗐
+yàobúshì - if it were not for	要不是
+yǐjīng - already	已經
+mǎihǎo - to have bought	買好
+fēijīpiào - plane ticket	飛機票
+zěnme - how come	怎麽
+zìzài - comfortable, at ease	自在
+kèqi - polite	客氣
+ó - oh	哦
+búguò - but	不過
+fēngjǐng - scenery	風景
+dào - surprisingly	倒
+yěxǔ - perhaps	也許
+bié luàn xiǎng le - don't think too much	別亂想了
+yí lù píng'ān - have a safe trip	一路平安
+wánr de kāixīn - have a good time	玩兒得開心
+Zhōngqiū Jié - Mid-Autumn Festival	中秋節
+yuèbing - moon cake	月餅
+Guóqìng Jié - National Day	國慶節
+jīchì - chicken wings	鷄翅
+sījī - driver	司機
+shēntǐ - health	身體
+shān - mountain	山
+kāfēitīng - cafe	咖啡廳
+kǎo shì - to take a test	考試
+bùdéliǎo - extremely (use with 得)	不得了
+qǐ chuáng - to get up/wake up	起床
+yì tiān dào wǎn - from morning til night	一天到晚
+niàn - to attend school	唸
+niàn shū - to study (intransitive)	唸書
+fùxí - to review	復習
+gōngkè - homework	功課
+méijīng-dǎcǎi - to look tired and unhappy	沒精打采
+lián - even	連
+xiě - to write	寫
+dǎ diànhuà - to make a phone call	打電話
+cái - not until, later than expected	才
+jīngshen - vigorous, energetic	精神
+hǎoxiàng -it seems	好像
+wán - to run out	完
+jìnr - strength	勁兒
+shìde - it seems that (after hǎoxiàng)	似的
+xiànglái - all along	向來
+pǎo - to run	跑
+bù - step	步
+pǎo bù - to run/jog	跑步
+duànliàn - to exercise	鍛煉
+mèng - to dream	夢
+qǐlái - to get up	起來
+zuìjìn - recently	最近
+bié tí le - don't bring it up	別提了
+sǐ - death/extremely: ___ sǐ le = ___ jǐ le	死
+zhēn yào mìng - it is killing me	真要命
+díquè - indeed	的確
+zěnme gǎo de - what's wrong?	怎麽搞的
+hāi - sigh	咳
+shēng bìng - to get sick	生病
+bǐ - compared with	比
+nán - hard, difficult	難
+jì - to remember	紀
+nán jì - hard to remember	難記
+zěnme huí shì - what has happened?	怎麽回事
+kuàicān - fast food	快餐
+chéngzhī - orange juice	橙汁
+shuǐguǒ - fruits	水果
+shūcài - vegetables	蔬菜
+kělè - cola	可樂
+jìzhù - remember (transitive?)	記住
+xiūxi - to rest	休息
+zhù - to wish	祝
+qiáng - strong, good	強
+mèngjiàn - to dream of	夢見
+jíjí-mángmáng - in a hurry	急急忙忙
+Shèngdàn Jié - Christmas	聖誕節
+jiàqī - vacation, break	假期
+chūnjì - spring	春季
+xuéqī - semester	學期
+kāi xué - to start school	開學
+géwài - especially (formal)	格外
+nǐ yì yán wǒ yì yǔ - to tell each other/talk eagerly	你一言我一語
+fāshēng - to happen	發生
+tīngdǒng - to understand (by listening): use de or bu in between	聽懂
+shìjiè - world	世界
+shàng - on top of	上
+shōuyǎng - to adopt	收養
+zhī - MW for animals	隻
+māo - cat	貓
+báisè - white color	白色
+máo - fur	毛
+lǜsè - green color	綠色
+yǎnjing - eye(s)	眼睛
+zhùyìdào - to notice	注意到
+gēmenr - buddy	哥們兒
+duǎn - short (length)	短
+xīwàng - to hope (note wàng written differently)	希望
+tiān tiān - everyday	天天
+jìde - to remember, recall	記得
+wàng le - to forget	忘了
+tā - it	它
+bié jí - don't worry, don't rush	別急
+gāngcái - just now, a moment ago	剛才
+shuōdào - to talk about	説到
+yìsi - meaning	意思
+wùhuì - to misunderstand	誤會
+jùzi - sentence	句子
+chū cuò - to make mistakes	出錯
+qīngchu - clear	清楚
+fèihuà - nonsense	廢話
+gàn - to do	幹
+kěndìng - definitely, I am positive that	肯定
+zhème qiǎo - what a coincidence	這麽巧
+suì - age	歲
+zhōngshí - loyal	忠實
+tiào - to jump	跳
+zhīxīn - to know what one is thinking about	知心
+zhīxīn péngyou - best friend	知心朋友
+pá - to climb	爬
+jiǔ - alcohol	酒
+miào - great!	妙
+miāo - meow	喵
+Chūnjié - spring festival	春節
+chuántǒng - traditional	傳統
+jiérì - holiday	節日
+xǐ yíng - to welcome (a holiday)	喜迎
+qìnghè - to celebrate	慶賀
+xīnchūn - the spring of a new year	新春
+rìzi - day (formal)	日子
+zhòngshi - to pay special attention to	重視
+búlùn - no matter...	不論
+Dōng Yà - East Asia	東亞
+xì - department	系
+kāi - to hold (an event)	開
+wǎnhùi - party (gala)	晚會
+yāoqǐng - to invite (formal)	邀請
+suǒyǒu - all	所有
+cānjiā - to take part in	參加
+bāo - to wrap	包
+jiǎozi - dumplings	餃子
+chàng gē - to sing	唱歌
+tiào wǔ - to dance	跳舞
+kuàilè - happy	快樂
+rènao - lively, noisy, crowded	熱鬧
+biǎoyǎn - to perform	表演
+jiémù - show, program	節目
+fàn chóu - to worry (intransitive)	犯愁
+jìrán - since, now that	既然
+zuǒsī-yòuxiǎng - to think over and over	左思右想
+zhōngyú - finally	終於
+gēnjù - according to	根據
+yīnlì, nónglì - lunar calendar	陰曆， 農曆
+jìsuàn - to calculate	計算
+yánglì - solar calendar	陽曆
+dàyuē - approximately	大約
+zuǒyòu - or so	左右
+fēicháng - especially	非常
+zhòngyào - important	重要
+qiáo nǐ - look at you!	瞧你
+shǒu - MW for songs	首
+zánmen - we (audience inclusive)	咱們
+yángqiāng-yángdiào - foreign accent	洋腔洋調
+lǎowài - foreigner	老外
+chúxī - New Year's Eve	除夕
+niányèfàn - NYE dinner	年夜飯
+bei - duh	唄
+shípǐn - food	食品
+yìbiān...yìbiān - do A while doing B	一邊。。。一邊
+xiǎopǐn - a play	小品
+biǎoyǎnzhě - performer	表演者
+shù - tree	樹
+niǎo - bird	鳥
+chéng shuāng duì - to become a couple	成雙對
+lǎogōng - husband	老公
+lǎopo - wife	老婆
+qīn'ài - dear	親愛
+zhīxīn àiren - soulmate	知心愛人
+àiren - spouse	愛人
+pà - to be afraid	怕
+lèihuaì - to be exhausted	累壞
+huó miàn - to make dough	和麵
+gǎn pír - to make wrappers	擀皮兒
+bàn xiànr - to make fillings	拌餡兒
+zěnme bàn - what shall I do?	怎麽辦
+shǒu - hand	手
+sháo - spoon	勺
+jǐ - to squeeze	擠
+nénggàn - capable	能幹
+ěrduo - ear	耳朵
+àihào - hobby	愛好
+ràng - to let, to allow to	讓
+zǔ - group	組
+tán - to talk about, to discuss	談
+xiàng - to, towards	向
+qítā - other	其他
+tóngbànr - teammate	同伴兒
+yèyú - spare-time, amateur	業餘
+gè yǒu sǔo ài - each have their own interests	各有所愛
+zhìqù xiāngtóu - to share the same interest	志趣相投
+qìfēn - atmosphere, ambiance (of a person or place)	氣氛
+shífēn - very, extremely (formal)	十分
+huóyuè - active, lively	活躍
+fēndào - to be assigned to	分到
+shuōqǐ - talking about	説起
+tī - to kick, to play (soccer)	踢
+zúqiú - soccer	足球
+xǐhuanshàng - to begin to like	喜歡上
+qí - to ride	騎
+zìxíngchē - bicycle	自行車
+bàngqiú - baseball	棒球
+lánqiú - basketball	籃球
+wǎngqiú - tennis	網球
+yóuyǒng - to swim	游泳
+huà huàr - to paint, to draw	畫畫兒
+dáng - to become	當
+míng - MW - number of people	名
+huàjiā - painter, artist	畫家
+lìngwài - besides, furthermore	另外
+xià qí - to play chess	下棋
+tán - to play (musical instrument), to pluck	彈
+jítā - guitar	吉他
+jiānglái - in the future	將來
+shūfǎ - calligraphy	書法
+dūocái-dūoyì - versatile	多才多藝
+qín - general name for stringed instruments	琴
+qí - chess/any board game	棋
+shū - calligraphy	書
+huà - painting	畫
+yàng yàng jīngtōng - to be good at everything	樣樣精通
+jīngtōng - to be proficient in	精通
+děng - to wait	等
+bùshǎo - a lot	不少
+suí biàn - whatever, do what you want	隨便
+suànle - forget about it	算了
+hǎowa - okay	好哇
+Měishì - American style	美式
+duōbànr - mostly, most of	多半兒
+guàibude - no wonder	怪不得
+dòu nǐ wánr - just kidding	逗你玩兒
+yìshùjiā - artist	藝術家
+jiēzhe - to continue	接著
+zhuānyè - major	專業
+yuányīn - reason	原因
+dōngfāng - Eastern, the East	東方
+zhǔxiū - to major in	主修
+gāngqín - piano	鋼琴
+duìniú tánqín - playing music to cattle	對牛彈琴
+shíjiān dào le - time's up	時間到了
+xiàmiàn - next	下面
+qiánmiàn - the front	前面
+xiōngdì - brothers	兄弟
+kāishǐ - to start	開始
+wéiqí - Go	圍棋
+bùgăndāng - I'm flattered	不敢當
+shī liàn	to get dumped
+xīnqíng	mood (good or bad)
+kànqǐlái	it looks like/to look like
+jǔsàng	depressed, dejected
+shēntǐ	body, health
+zuòyè	homework
+fùdān	burden
+zhòng	heavy
+duìfu	to handle
+chuīle	to break up (informal)
+shàng ge	last (week/month)
+zhōumò	weekend
+tíchūlái	to bring it up
+fēn shǒu	to break up
+xìngqíng	temperament
+xiǎnglái-xiǎngqù - to think over and over	想來想去
+zhǔyào - mainly	主要
+yī shì...èr shì	一是。。。二是
+niánqīng - young	年輕
+ér - but (formal)	而
+niánlíng - age	年齡
+dà - old	大
+ānquángǎn	安全感
+zūnzhòng - to respect	尊重
+xuǎnzé - to choose	選擇
+nánguò - sad	難過
+wánquán - completely	完全
+wàngjì - to forget	忘記
+guòqù - the past	過去
